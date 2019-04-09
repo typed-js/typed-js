@@ -12,4 +12,4 @@ NYCTypedJS expects all speakers and attendees to follow the
 
 ## Scheduled meetups
 
-- [April 24, 2019](/1)
+- [April 24, 2019](1.md)
